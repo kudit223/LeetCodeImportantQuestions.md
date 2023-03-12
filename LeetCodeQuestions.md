@@ -1,6 +1,6 @@
 ## Array
 
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Done!!] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
