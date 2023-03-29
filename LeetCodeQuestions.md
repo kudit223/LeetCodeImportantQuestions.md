@@ -27,7 +27,7 @@
 
 - [ Done!!] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ Done!!] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [ Done!!] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ Done!!] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
 - [Done!! ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
@@ -35,7 +35,7 @@
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ Done!!] [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [ Done!!] [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ---
 
