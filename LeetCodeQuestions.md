@@ -34,7 +34,7 @@
 - [ Done!!] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ Done!!
 ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [x] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ Done!!] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ Done!!] [Jump Game](https://leetcode.com/problems/jump-game/)
 
